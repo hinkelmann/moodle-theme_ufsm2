@@ -1,0 +1,39 @@
+{
+  "name": "theme-ufsm2",
+  "version": "0.1.0",
+  "description": "Grunt tasks for Moodle Bootstrap theme.",
+  "main": "Gruntfile.js",
+  "author": {
+    "name": "Núcleo de Tecnologia Educacional",
+    "url": "https://nte.ufsm.br"
+  },
+  "contributors": [
+    {
+      "name": "Luiz Guilherme"
+    },
+    {
+      "name": "Genaro"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://hinkelmann@bitbucket.org/ntedev/theme_ufsm.git"
+  },
+  "bugs": {
+    "url": "https://hinkelmann@bitbucket.org/ntedev/theme_ufsm/issues"
+  },
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-autoprefixer": "~0.7.6",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-cssmin": "~0.10.0",
+    "grunt-contrib-less": "~0.11.3",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-css-flip": "~0.4.0",
+    "grunt-csscomb": "~2.0.1",
+    "grunt-exec": "~0.4.5",
+    "grunt-svgmin": "~0.4.0",
+    "grunt-text-replace": "~0.3.11"
+  },
+  "license": "GPL-3.0+"
+}
